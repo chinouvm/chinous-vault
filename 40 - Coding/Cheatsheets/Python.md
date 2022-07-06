@@ -173,6 +173,7 @@ ___
 | >            | Greater than             |
 | <=           | Less than or Equal to    |
 | >=           | Greater than or Equal to |
+
 These operators evaluate to True or False depending on the values you give them.
 
 Examples:
@@ -262,14 +263,27 @@ And these as well:
 There are three Boolean operators: and, or, and not.
 
 The _and_ Operator’s _Truth_ Table:
+
 | **Expression**    | **Evaluates to** |
 | ----------------- | ---------------- |
 | `True and True`   | `True`           |
 | `True and False`  | `False`          |
 | `False and True`  | `False`          |
 | `False and False` | `False`          |
+
 The _or_ Operator’s _Truth_ Table:
+
+| **Expression**   | **Evaluates to** |
+| ---------------- | ---------------- |
+| `True or True`   | `True`           |
+| `True or False`  | `True`           |
+| `False or True`  | `True`           |
+| `False or False` | `False`                 |
+
+The _not_ Operator’s _Truth_ Table:
+
 | **Expression** | **Evaluates to** |
 | -------------- | ---------------- |
-| `True or True` | `True`           |
-| ``               |                  |
+| `not True`     | `False`          |
+| `not False`    | `True`                 |
+
