@@ -7,4 +7,4 @@
 - [ ] #task Move challenge project from word to obsidian
 
 # Coding
-- [ ] #task Create cheatsheets for different programming languages
+- [ ] #task Create cheatsheets for git commands
