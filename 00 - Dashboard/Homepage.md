@@ -1,9 +1,4 @@
-# Uncompleted Tasks
+# Tasks TODO
 ```tasks
 not done
-```
-
-# Completed Tasks
-```tasks
-done
 ```

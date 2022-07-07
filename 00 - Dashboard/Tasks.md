@@ -1,10 +1,14 @@
-# Obsidian
-- [x] #task Create a daily log template ✅ 2022-07-06
-- [ ] #task Research new additions for Chinou's Vault
-- [ ] #task Complete the homepage with different features
+# Tasks
 
-# School
-- [ ] #task Move challenge project from word to obsidian
+### Coding
+- [x] #task Create Python cheatsheet ✅ 2022-07-07
+- [x] #task Create Git cheatsheet ✅ 2022-07-07
+- [ ] #task Find more topics to create cheatsheets about
 
-# Coding
-- [ ] #task Create cheatsheets for git commands
+### Obsidian
+- [ ] #task Research Obsidian
+- [ ] #task Find things to fill the homepage with
+- [ ] #task Create more templates
+
+### School
+- [x] #task Move Challenge project from Word to Obsidian ✅ 2022-07-07
